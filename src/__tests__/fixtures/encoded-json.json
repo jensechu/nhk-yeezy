@@ -1,0 +1,23 @@
+[
+  {
+    "top_priority_number": "1",
+    "top_display_flag": true,
+    "news_id": "k10011746901000",
+    "news_prearranged_time": "2018-12-14 17:10:00",
+    "title": "\u6c96\u7e04\u770c\u306e\u8fba\u91ce\u53e4\u3000\u57fa\u5730\u3092\u3064\u304f\u308b\u305f\u3081\u306b\u6d77\u306b\u571f\u3092\u5165\u308c\u59cb\u3081\u308b",
+    "title_with_ruby": "<ruby>\u6c96\u7e04\u770c<rt>\u304a\u304d\u306a\u308f\u3051\u3093</rt></ruby>\u306e<ruby>\u8fba\u91ce\u53e4<rt>\u3078\u306e\u3053</rt></ruby>\u3000<ruby>\u57fa\u5730<rt>\u304d\u3061</rt></ruby>\u3092\u3064\u304f\u308b\u305f\u3081\u306b<ruby>\u6d77<rt>\u3046\u307f</rt></ruby>\u306b<ruby>\u571f<rt>\u3064\u3061</rt></ruby>\u3092<ruby>\u5165<rt>\u3044</rt></ruby>\u308c<ruby>\u59cb<rt>\u306f\u3058</rt></ruby>\u3081\u308b",
+    "outline_with_ruby": "<p><ruby>\u65e5\u672c<rt>\u306b\u3063\u307d\u3093</rt></ruby>\u3068\u30a2\u30e1\u30ea\u30ab\u306f\uff12\uff10<ruby>\u5e74<rt>\u306d\u3093</rt></ruby><ruby>\u4ee5\u4e0a<rt>\u3044\u3058\u3087\u3046</rt></ruby><ruby>\u524d<rt>\u307e\u3048</rt></ruby>\u3001<ruby>\u6c96\u7e04\u770c<rt>\u304a\u304d\u306a\u308f\u3051\u3093</rt></ruby>\u306b\u3042\u308b\u30a2\u30e1\u30ea\u30ab<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>\u8ecd<rt>\u3050\u3093</rt></ruby></a>\u306e<ruby>\u666e\u5929\u9593\u57fa\u5730<rt>\u3075\u3066\u3093\u307e\u304d\u3061</rt></ruby>\u3092<ruby>\u5225<rt>\u3079\u3064</rt></ruby>\u306e<ruby>\u5834\u6240<rt>\u3070\u3057\u3087</rt></ruby>\u306b<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>\u79fb<rt>\u3046\u3064</rt></ruby>\u3059</a>\u3053\u3068\u306b<ruby>\u6c7a<rt>\u304d</rt></ruby>\u3081\u307e\u3057\u305f\u3002",
+    "news_file_ver": false,
+    "news_publication_status": false,
+    "has_news_web_image": true,
+    "has_news_web_movie": true,
+    "has_news_easy_image": false,
+    "has_news_easy_movie": false,
+    "has_news_easy_voice": true,
+    "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181214/../20181214/K10011746901_1812141104_1812141106_01_03.jpg",
+    "news_web_movie_uri": "k10011746901_201812141220_201812141231.mp4",
+    "news_easy_image_uri": "''",
+    "news_easy_movie_uri": "''",
+    "news_easy_voice_uri": "k10011746901000.mp4"
+  }
+]

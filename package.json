@@ -1,0 +1,38 @@
+{
+  "name": "nhk-yeezy",
+  "version": "1.0.0",
+  "description": "Twitters NHK Easy news articles daily.",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm run build:live",
+    "build": "tsc -p .",
+    "build:live": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/app.ts",
+    "prettier:base": "prettier --parser typescript --single-quote",
+    "prettier:check": "npm run prettier:base -- --list-different \"src/**/*.{ts,tsx}\"",
+    "prettier:write": "npm run prettier:base -- --write \"src/**/*.{ts,tsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensechu/nhk-yeezy.git"
+  },
+  "keywords": [],
+  "author": "Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jensechu/nhk-yeezy/issues"
+  },
+  "homepage": "https://github.com/jensechu/nhk-yeezy#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "@types/node": "^10.12.15",
+    "jest": "^23.6.0",
+    "nodemon": "^1.18.9",
+    "prettier": "^1.15.3",
+    "ts-jest": "^23.10.5",
+    "ts-node": "^7.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "typescript": "^3.2.2"
+  }
+}
