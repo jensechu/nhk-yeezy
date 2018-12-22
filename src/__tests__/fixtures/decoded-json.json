@@ -1,23 +1,46 @@
-[
-  {
+{
+  "0": {
     "top_priority_number": "1",
     "top_display_flag": true,
-    "news_id": "k10011746901000",
-    "news_prearranged_time": "2018-12-14 17:10:00",
-    "title": "沖縄県の辺野古　基地をつくるために海に土を入れ始める",
-    "title_with_ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>辺野古<rt>へのこ</rt></ruby>　<ruby>基地<rt>きち</rt></ruby>をつくるために<ruby>海<rt>うみ</rt></ruby>に<ruby>土<rt>つち</rt></ruby>を<ruby>入<rt>い</rt></ruby>れ<ruby>始<rt>はじ</rt></ruby>める",
-    "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>とアメリカは２０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>沖縄県<rt>おきなわけん</rt></ruby>にあるアメリカ<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>軍<rt>ぐん</rt></ruby></a>の<ruby>普天間基地<rt>ふてんまきち</rt></ruby>を<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>移<rt>うつ</rt></ruby>す</a>ことに<ruby>決<rt>き</rt></ruby>めました。",
+    "news_id": "k10011754721000",
+    "news_prearranged_time": "2018-12-21 16:20:00",
+    "title": "リニアモーターカーを使った新幹線の新しい車両",
+    "title_with_ruby": "リニアモーターカーを<ruby>使<rt>つか</rt></ruby>った<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>車両<rt>しゃりょう</rt></ruby>",
+    "outline_with_ruby": "<p>ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は、２０２７<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>リニアモーターカー</a>を<ruby>使<rt>つか</rt></ruby>った「リニア<ruby>中央新幹線<rt>ちゅうおうしんかんせん</rt></ruby>」の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。",
     "news_file_ver": false,
-    "news_publication_status": false,
+    "news_publication_status": true,
     "has_news_web_image": true,
-    "has_news_web_movie": true,
+    "has_news_web_movie": false,
     "has_news_easy_image": false,
     "has_news_easy_movie": false,
     "has_news_easy_voice": true,
-    "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181214/../20181214/K10011746901_1812141104_1812141106_01_03.jpg",
-    "news_web_movie_uri": "k10011746901_201812141220_201812141231.mp4",
+    "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181220/../20181220/K10011754721_1812202155_1812202248_01_02.jpg",
+    "news_web_movie_uri": "",
     "news_easy_image_uri": "''",
     "news_easy_movie_uri": "''",
-    "news_easy_voice_uri": "k10011746901000.mp4"
-  }
-]
+    "news_easy_voice_uri": "k10011754721000.mp4"
+  },
+  "default": [
+    {
+      "top_priority_number": "1",
+      "top_display_flag": true,
+      "news_id": "k10011754721000",
+      "news_prearranged_time": "2018-12-21 16:20:00",
+      "title": "リニアモーターカーを使った新幹線の新しい車両",
+      "title_with_ruby": "リニアモーターカーを<ruby>使<rt>つか</rt></ruby>った<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>車両<rt>しゃりょう</rt></ruby>",
+      "outline_with_ruby": "<p>ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は、２０２７<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>リニアモーターカー</a>を<ruby>使<rt>つか</rt></ruby>った「リニア<ruby>中央新幹線<rt>ちゅうおうしんかんせん</rt></ruby>」の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。",
+      "news_file_ver": false,
+      "news_publication_status": true,
+      "has_news_web_image": true,
+      "has_news_web_movie": false,
+      "has_news_easy_image": false,
+      "has_news_easy_movie": false,
+      "has_news_easy_voice": true,
+      "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181220/../20181220/K10011754721_1812202155_1812202248_01_02.jpg",
+      "news_web_movie_uri": "",
+      "news_easy_image_uri": "''",
+      "news_easy_movie_uri": "''",
+      "news_easy_voice_uri": "k10011754721000.mp4"
+    }
+  ]
+}
