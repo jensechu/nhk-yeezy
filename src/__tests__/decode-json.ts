@@ -3,7 +3,5 @@ import * as decodedJSON from "./fixtures/decoded-json.json";
 import decodeJSON from "../decode-json";
 
 test("decodeJSON returns decoded JSON", () => {
-  expect(decodeJSON(encodedJSON)).toBe(
-    JSON.parse('"' + `${decodedJSON}` + '"')
-  );
+  expect(decodeJSON(JSON.stringify(encodedJSON))).toEqual(decodedJSON.default);
 });

@@ -2,22 +2,22 @@
   {
     "top_priority_number": "1",
     "top_display_flag": true,
-    "news_id": "k10011746901000",
-    "news_prearranged_time": "2018-12-14 17:10:00",
-    "title": "\u6c96\u7e04\u770c\u306e\u8fba\u91ce\u53e4\u3000\u57fa\u5730\u3092\u3064\u304f\u308b\u305f\u3081\u306b\u6d77\u306b\u571f\u3092\u5165\u308c\u59cb\u3081\u308b",
-    "title_with_ruby": "<ruby>\u6c96\u7e04\u770c<rt>\u304a\u304d\u306a\u308f\u3051\u3093</rt></ruby>\u306e<ruby>\u8fba\u91ce\u53e4<rt>\u3078\u306e\u3053</rt></ruby>\u3000<ruby>\u57fa\u5730<rt>\u304d\u3061</rt></ruby>\u3092\u3064\u304f\u308b\u305f\u3081\u306b<ruby>\u6d77<rt>\u3046\u307f</rt></ruby>\u306b<ruby>\u571f<rt>\u3064\u3061</rt></ruby>\u3092<ruby>\u5165<rt>\u3044</rt></ruby>\u308c<ruby>\u59cb<rt>\u306f\u3058</rt></ruby>\u3081\u308b",
-    "outline_with_ruby": "<p><ruby>\u65e5\u672c<rt>\u306b\u3063\u307d\u3093</rt></ruby>\u3068\u30a2\u30e1\u30ea\u30ab\u306f\uff12\uff10<ruby>\u5e74<rt>\u306d\u3093</rt></ruby><ruby>\u4ee5\u4e0a<rt>\u3044\u3058\u3087\u3046</rt></ruby><ruby>\u524d<rt>\u307e\u3048</rt></ruby>\u3001<ruby>\u6c96\u7e04\u770c<rt>\u304a\u304d\u306a\u308f\u3051\u3093</rt></ruby>\u306b\u3042\u308b\u30a2\u30e1\u30ea\u30ab<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>\u8ecd<rt>\u3050\u3093</rt></ruby></a>\u306e<ruby>\u666e\u5929\u9593\u57fa\u5730<rt>\u3075\u3066\u3093\u307e\u304d\u3061</rt></ruby>\u3092<ruby>\u5225<rt>\u3079\u3064</rt></ruby>\u306e<ruby>\u5834\u6240<rt>\u3070\u3057\u3087</rt></ruby>\u306b<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>\u79fb<rt>\u3046\u3064</rt></ruby>\u3059</a>\u3053\u3068\u306b<ruby>\u6c7a<rt>\u304d</rt></ruby>\u3081\u307e\u3057\u305f\u3002",
+    "news_id": "k10011754721000",
+    "news_prearranged_time": "2018-12-21 16:20:00",
+    "title": "\u30ea\u30cb\u30a2\u30e2\u30fc\u30bf\u30fc\u30ab\u30fc\u3092\u4f7f\u3063\u305f\u65b0\u5e79\u7dda\u306e\u65b0\u3057\u3044\u8eca\u4e21",
+    "title_with_ruby": "\u30ea\u30cb\u30a2\u30e2\u30fc\u30bf\u30fc\u30ab\u30fc\u3092<ruby>\u4f7f<rt>\u3064\u304b</rt></ruby>\u3063\u305f<ruby>\u65b0\u5e79\u7dda<rt>\u3057\u3093\u304b\u3093\u305b\u3093</rt></ruby>\u306e<ruby>\u65b0<rt>\u3042\u305f\u3089</rt></ruby>\u3057\u3044<ruby>\u8eca\u4e21<rt>\u3057\u3083\u308a\u3087\u3046</rt></ruby>",
+    "outline_with_ruby": "<p>\uff2a\uff32<ruby>\u6771\u6d77<rt>\u3068\u3046\u304b\u3044</rt></ruby>\u306f\u3001\uff12\uff10\uff12\uff17<ruby>\u5e74<rt>\u306d\u3093</rt></ruby>\u306b<ruby>\u6771\u4eac<rt>\u3068\u3046\u304d\u3087\u3046</rt></ruby>\u3068<ruby>\u540d\u53e4\u5c4b<rt>\u306a\u3054\u3084</rt></ruby>\u306e<ruby>\u9593<rt>\u3042\u3044\u3060</rt></ruby>\u3067<a href='javascript:void(0)' class='dicWin' id='id-0000'>\u30ea\u30cb\u30a2\u30e2\u30fc\u30bf\u30fc\u30ab\u30fc</a>\u3092<ruby>\u4f7f<rt>\u3064\u304b</rt></ruby>\u3063\u305f\u300c\u30ea\u30cb\u30a2<ruby>\u4e2d\u592e\u65b0\u5e79\u7dda<rt>\u3061\u3085\u3046\u304a\u3046\u3057\u3093\u304b\u3093\u305b\u3093</rt></ruby>\u300d\u306e<ruby>\u904b\u8ee2<rt>\u3046\u3093\u3066\u3093</rt></ruby>\u3092<ruby>\u59cb<rt>\u306f\u3058</rt></ruby>\u3081\u308b<ruby>\u4e88\u5b9a<rt>\u3088\u3066\u3044</rt></ruby>\u3067\u3059\u3002",
     "news_file_ver": false,
-    "news_publication_status": false,
+    "news_publication_status": true,
     "has_news_web_image": true,
-    "has_news_web_movie": true,
+    "has_news_web_movie": false,
     "has_news_easy_image": false,
     "has_news_easy_movie": false,
     "has_news_easy_voice": true,
-    "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181214/../20181214/K10011746901_1812141104_1812141106_01_03.jpg",
-    "news_web_movie_uri": "k10011746901_201812141220_201812141231.mp4",
+    "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181220/../20181220/K10011754721_1812202155_1812202248_01_02.jpg",
+    "news_web_movie_uri": "",
     "news_easy_image_uri": "''",
     "news_easy_movie_uri": "''",
-    "news_easy_voice_uri": "k10011746901000.mp4"
+    "news_easy_voice_uri": "k10011754721000.mp4"
   }
 ]
