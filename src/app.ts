@@ -1,6 +1,6 @@
 import axios from "axios";
 import decodeJSON from "./utilities/decode-json";
-import { createConnection, getConnection } from "typeorm";
+import { createConnection, getConnection, getRepository } from "typeorm";
 
 createConnection();
 
@@ -9,9 +9,20 @@ axios
   .then(function(response: any) {
     const allArticles = decodeJSON(response.data);
 
-    for (let article in allArticles) {
-      console.log(getConnection());
-    }
+    allArticles.forEach((article: any) => {
+      getConnection()
+        .getRepository("Article")
+        .findOne({ news_id: `${article.news_id}` })
+        .then((hasArticle: any) => {
+          if (!hasArticle)
+            getConnection()
+              .createQueryBuilder()
+              .insert()
+              .into("Article")
+              .values(article)
+              .execute();
+        });
+    });
   })
   .catch(function(error: any) {
     console.log(error);
